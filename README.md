@@ -1,5 +1,6 @@
 # Artificial-Intelligence
 AI projects and analysis of popular AI libraries in Python, their main functions and areas of application.
+
 ----
 
 ## [Checkers with AI as 2nd player](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/Checkers "Named link title")
