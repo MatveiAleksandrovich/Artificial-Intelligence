@@ -4,7 +4,7 @@ _AI projects and analysis of popular AI libraries in Python, their main function
 ----
 
 ## [Checkers with AI as 2nd player](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/Checkers "Named link title")
-  Сheckers game with Artificial Intelligence based enemy-bot, through all the game process you can easily see how computer counts the right way to go. Also, it supports changing the number of steps the computer thinks ahead.
+  _Сheckers game with Artificial Intelligence based enemy-bot, through all the game process you can easily see how computer counts the right way to go. Also, it supports changing the number of steps the computer thinks ahead._
 
 ### Technology
 * Python
@@ -23,6 +23,6 @@ _AI projects and analysis of popular AI libraries in Python, their main function
 ----
 
 ## [matplotlib](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/matplotlib "Named link title")
-  Matplotlib is one of the most popular library for data visualizations. Here you can find some of the main functions and features of this library.
+  _Matplotlib is one of the most popular library for data visualizations. Here you can find some of the main functions and features of this library.
   
-  # 'FIFA_data'
+  ## FIFA_data
