@@ -1,8 +1,3 @@
-# This is my KNeighborsClassifier creating description
-
-# If you find any mistake or smth i can improve there,
-# please contact me.
-
 import numpy as np
 import pandas as pd
 from sklearn import neighbors, metrics, svm
