@@ -33,7 +33,7 @@ _AI projects and analysis of popular AI libraries in Python, their main function
 ## [matplotlib](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/matplotlib "Named link title")
   _Matplotlib is one of the most popular library for data visualizations. Here you can find some of the main functions and features of this library._
 
-## Technology
+### Technology
 - Python
 - Matplotlib
 - Pandas
@@ -47,3 +47,17 @@ Shows the law of large numbers from probability theory and animates bars from ra
 Uses the GasPrice dataset and creates visualization of gas price in countries through years.
 ### linear_regression_animation.py
 Creates linear regressions for randomly created data, it shows the law of large numbers and its visualizations.
+
+## [scikit-learn](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/openCV "Named link title")
+### Technology
+- Python
+- Sklearn
+- Matplotlib
+- Pandas
+
+
+## [OpenCV](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/openCV "Named link title")
+### Technology
+- Python
+- NumPy
+- OpenCV
