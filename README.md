@@ -3,6 +3,14 @@ _AI projects and analysis of popular AI libraries in Python, their main function
 
 ----
 
+### Starting project
+1. Clone repository ```git clone https://github.com/MatveiAleksandrovich/Artificial-Intelligence.git```
+2. Go to the directory you want to look at. More information about each directory can be found below
+3. Run 'File_you_want.py'
+4. Close file you can with <kbd>^C</kbd>
+
+----
+
 ## [Checkers with AI as 2nd player](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/Checkers "Named link title")
   _Сheckers game with Artificial Intelligence based enemy-bot, through all the game process you can easily see how computer counts the right way to go. Also, it supports changing the number of steps the computer thinks ahead._
 
@@ -24,5 +32,15 @@ _AI projects and analysis of popular AI libraries in Python, their main function
 
 ## [matplotlib](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/matplotlib "Named link title")
   _Matplotlib is one of the most popular library for data visualizations. Here you can find some of the main functions and features of this library.
+
+## Technology
+- Python
+- Matplotlib
+- Pandas
+- Sklearn
   
-   ## FIFA_data
+## FIFA_data.py
+Creates basic visualizations on FIFA players dataset.
+- Histograms
+- Pie charts
+- Boxes
