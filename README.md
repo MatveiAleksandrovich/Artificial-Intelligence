@@ -6,7 +6,7 @@ AI projects and analysis of popular AI libraries in Python, their main functions
 
 ### Technology
 * Python
-Pygame
+**Pygame
 Minimax Algorithm 
   
 ### Starting project
