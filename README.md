@@ -3,7 +3,7 @@ _AI projects and analysis of popular AI libraries in Python, their main function
 
 ----
 
-## Starting project
+## Starting projects
 1. Clone repository ```git clone https://github.com/MatveiAleksandrovich/Artificial-Intelligence.git```
 2. Go to the directory you want to look at. More information about each directory can be found below
 3. Run 'File_you_want.py'
