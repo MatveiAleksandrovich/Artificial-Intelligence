@@ -63,6 +63,7 @@ KMeans classifier used to predict canser diagnostic.
 K-neighbors classifier used to predict the car class based on its buying, maint, doors, persons, lug_boots and safety.
 ### SVM_iris.py
 
+----
 
 ## [OpenCV](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/openCV "Named link title")
 ### Technology
