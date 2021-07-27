@@ -39,7 +39,7 @@ _AI projects and analysis of popular AI libraries in Python, their main function
 - Pandas
 - Sklearn
   
-## FIFA_data.py
+### FIFA_data.py
 Creates basic visualizations on FIFA players dataset.
 - Histograms
 - Pie charts
