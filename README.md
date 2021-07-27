@@ -48,12 +48,18 @@ Uses the GasPrice dataset and creates visualization of gas price in countries th
 ### linear_regression_animation.py
 Creates linear regressions for randomly created data, it shows the law of large numbers and its visualizations.
 
-## [scikit-learn](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/openCV "Named link title")
+## [scikit-learn](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/scikit-learn "Named link title")
 ### Technology
 - Python
 - Sklearn
 - Matplotlib
 - Pandas
+
+### KMeans.py
+KMeans classifier used to predict canser diagnostic.
+### KNN_classifier.py
+K-neighbors classifier used to predict the car class based on its buying, maint, doors, persons, lug_boots and safety.
+### SVM_iris.py
 
 
 ## [OpenCV](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/openCV "Named link title")
