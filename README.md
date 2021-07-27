@@ -31,7 +31,7 @@ _AI projects and analysis of popular AI libraries in Python, their main function
 ----
 
 ## [matplotlib](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/matplotlib "Named link title")
-  _Matplotlib is one of the most popular library for data visualizations. Here you can find some of the main functions and features of this library.
+  _Matplotlib is one of the most popular library for data visualizations. Here you can find some of the main functions and features of this library._
 
 ## Technology
 - Python
