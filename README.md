@@ -14,6 +14,6 @@ AI projects and analysis of popular AI libraries in Python, their main functions
 2. Go to Checkers directory
 3. Run 'main.py' file
 
-### Сhange the difficulty level
+### Сhange the difficulty
 1. Go to file 'main.py'
 2. On the position 28:58 there is an argument that changes difficulty by default it is 3, to make it easier set 2
