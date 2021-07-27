@@ -48,6 +48,8 @@ Uses the GasPrice dataset and creates visualization of gas price in countries th
 ### linear_regression_animation.py
 Creates linear regressions for randomly created data, it shows the law of large numbers and its visualizations.
 
+----
+
 ## [scikit-learn](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/scikit-learn "Named link title")
 ### Technology
 - Python
