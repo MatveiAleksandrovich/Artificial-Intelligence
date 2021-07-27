@@ -3,6 +3,11 @@ AI projects and analysis of popular AI libraries in Python, their main functions
 
 ## [Checkers with AI as 2nd player](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/Checkers "Named link title")
   Сheckers game with Artificial Intelligence based enemy-bot, through all the game process you can easily see how computer counts the right way to go. Also, it supports changing the number of steps the computer thinks ahead.
+
+### Technology
+* Python
+Pygame
+Minimax Algorithm 
   
 ### Starting project
 1. Clone repository ```git clone https://github.com/MatveiAleksandrovich/Artificial-Intelligence.git```
