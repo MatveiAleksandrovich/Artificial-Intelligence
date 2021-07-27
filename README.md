@@ -11,7 +11,7 @@ _AI projects and analysis of popular AI libraries in Python, their main function
 
 ----
 
-## [Checkers with AI as 2nd player](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/Checkers "Named link title")
+## Directory: [Checkers](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/Checkers "Named link title")
   _Сheckers game with Artificial Intelligence based enemy-bot, through all the game process you can easily see how computer counts the right way to go. Also, it supports changing the number of steps the computer thinks ahead._
 
 ### Technology
@@ -30,7 +30,7 @@ _AI projects and analysis of popular AI libraries in Python, their main function
 
 ----
 
-## [matplotlib](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/matplotlib "Named link title")
+## Directory: [matplotlib](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/matplotlib "Named link title")
   _Matplotlib is one of the most popular library for data visualizations. Here you can find some of the main functions and features of this library._
 
 ### Technology
@@ -50,7 +50,7 @@ Creates linear regressions for randomly created data, it shows the law of large 
 
 ----
 
-## [scikit-learn](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/scikit-learn "Named link title")
+## Directory: [scikit-learn](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/scikit-learn "Named link title")
 ### Technology
 - Python
 - Sklearn
@@ -65,7 +65,7 @@ K-neighbors classifier used to predict the car class based on its buying, maint,
 
 ----
 
-## [OpenCV](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/openCV "Named link title")
+## Directory: [OpenCV](https://github.com/MatveiAleksandrovich/Artificial-Intelligence/tree/main/openCV "Named link title")
 ### Technology
 - Python
 - NumPy
