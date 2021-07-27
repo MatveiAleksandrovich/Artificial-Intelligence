@@ -40,7 +40,10 @@ _AI projects and analysis of popular AI libraries in Python, their main function
 - Sklearn
   
 ### FIFA_data.py
-Creates basic visualizations on FIFA players dataset.
-- Histograms
-- Pie charts
-- Boxes
+Creates basic visualizations on FIFA players dataset. (Histograms, Pie charts, Boxes) 
+### bar_animation.py
+Shows the law of large numbers from probability theory and animates bars from random numbers.
+### gas_price_overtime.py
+Uses the GasPrice dataset and creates visualization of gas price in countries through years.
+### linear_regression_animation.py
+Creates linear regressions for randomly created data, it shows the law of large numbers and its visualizations.
