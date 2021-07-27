@@ -6,8 +6,8 @@ AI projects and analysis of popular AI libraries in Python, their main functions
 
 ### Technology
 * Python
-**Pygame
-Minimax Algorithm 
+* Pygame
+* Minimax Algorithm 
   
 ### Starting project
 1. Clone repository ```git clone https://github.com/MatveiAleksandrovich/Artificial-Intelligence.git```
